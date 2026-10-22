@@ -171,10 +171,9 @@
 <br />
 <br />
 <p align="center">
-  <a href="https://buymeacoffee.com/cansuyil" target="_blank">
-    <img src="https://raw.githubusercontent.com/cansuyil/cansuyil/main/assets/sprinkle-2.gif" width="25" style="vertical-align: middle; margin-right: 8px;" />
-    <img src="https://raw.githubusercontent.com/cansuyil/cansuyil/main/assets/coffeee.gif" width="30" style="vertical-align: middle; margin-right: 8px;" />
-    <strong>Buy Me a Coffee</strong>
-    <img src="https://raw.githubusercontent.com/cansuyil/cansuyil/main/assets/sprinkle-3.gif" width="25" style="vertical-align: middle; margin-left: 8px;" />
-  </a>
+  <img src="https://raw.githubusercontent.com/cansuyil/cansuyil/main/assets/sprinkle-2.gif" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://raw.githubusercontent.com/cansuyil/cansuyil/main/assets/coffee-2.gif" width="28" style="vertical-align: middle; margin-right: 8px;" />
+  <a href="https://buymeacoffee.com/cansuyil" target="_blank"><strong>Buy Me a Coffee</strong></a>
+  <img src="https://raw.githubusercontent.com/cansuyil/cansuyil/main/assets/coffeee.gif" width="28" style="vertical-align: middle; margin-left: 8px;" />
+  <img src="https://raw.githubusercontent.com/cansuyil/cansuyil/main/assets/sprinkle-3.gif" width="22" style="vertical-align: middle; margin-left: 8px;" />
 </p>
